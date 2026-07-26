@@ -1,6 +1,6 @@
 # 🐾
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hokutaka&layout=compact&theme=transparent&locale=ja)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=Hokutaka&layout=compact&theme=transparent&locale=ja)](https://github.com/stats-organization/github-stats-extended)
 
 [![Whitebase](https://github-readme-stats.vercel.app/api/pin/?username=Hokutaka&repo=Whitebase&theme=transparent)](https://github.com/Hokutaka/Whitebase)
 
