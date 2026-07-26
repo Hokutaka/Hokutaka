@@ -1,9 +1,8 @@
 # 🐾
 
-[![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=Hokutaka&layout=compact&theme=transparent&locale=ja)](https://github.com/stats-organization/github-stats-extended)
+[Whitebase](https://github.com/Hokutaka/Whitebase)
 
-[![Whitebase](https://github-readme-stats.vercel.app/api/pin/?username=Hokutaka&repo=Whitebase&theme=transparent)](https://github.com/Hokutaka/Whitebase)
-
+[![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=Hokutaka&layout=compact&theme=transparent&locale=ja)](https://github.com/Hokutaka)
 <!--
 **Hokutaka/Hokutaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
