@@ -1,9 +1,15 @@
 # 🐾　So much to do, so little time
 
-[![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=Hokutaka&layout=compact&theme=transparent&locale=ja)](https://github.com/Hokutaka)
-<!--
-**Hokutaka/Hokutaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>
+  <a href="https://github.com/Hokutaka">
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Hokutaka&layout=compact&theme=transparent&locale=ja" height="165">
+  </a>
+  <a href="https://github.com/Hokutaka">
+    <img src="https://asteriskx-readme-stats.vercel.app/api?username=Hokutaka&count_private=true&show_icons=true" height="165">
+  </a>
+</p>
 
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
