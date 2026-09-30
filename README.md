@@ -1,5 +1,4 @@
-# 🐾　So much to do, so little time
-
+# 🐾　Powered by cats.
 <p>
   <a href="https://github.com/Hokutaka">
     <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Hokutaka&layout=compact&theme=transparent&locale=ja" height="165">
