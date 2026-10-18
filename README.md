@@ -1,22 +1,29 @@
-# 🐾　Powered by cats.
-<p>
-  <a href="https://github.com/Hokutaka">
-    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Hokutaka&layout=compact&theme=transparent&locale=ja" height="165">
-  </a>
-  <a href="https://github.com/Hokutaka">
-    <img src="https://asteriskx-readme-stats.vercel.app/api?username=Hokutaka&count_private=true&show_icons=true" height="165">
-  </a>
-</p>
+# 🐾 Powered by cats.
 
-<!--
-Here are some ideas to get you started:
+個人開発では、興味のあることに積極的に取り組んでいます。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+
+[**Cerune**](https://github.com/Cerune-Lang/Cerune)
+
+静的型付けの実験用プログラミング言語。IR、MIR、SSA、VM、複数のコード生成バックエンドを開発しています。
+
+[**Tint\***](https://tint.hokutaka.dev/)
+
+Ceruneのコード生成過程を可視化・観測する環境。デスクトップとブラウザから、コードが変換される過程を探れます。
+
+[**Whitebase**](https://github.com/Hokutaka/Whitebase)
+
+Rust・C++・Assemblyなどの実装を比較し、計算処理や実行経路を観察する実験環境。
+
+## Interests
+
+Programming Languages / Compilers / WebAssembly / Low-level Programming / Illustration
+
+FINAL FANTASY XIVや東方Projectも好きです。興味のあることは何でもやります。
+
+## Links
+
+- [Portfolio](https://hokutaka.github.io/)
+- [Tint\* Playground](https://tint.hokutaka.dev/)
+- [Cerune Organization](https://github.com/Cerune-Lang)
